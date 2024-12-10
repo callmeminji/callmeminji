@@ -2,10 +2,15 @@
 
 👋 About Me
 Name: Hong Minji
+
 University: Seoul National University of Science and Technology
+
 Major: IT Management
+
 Year: Sophomore
+
 Interests:
+
 Data Structures, Design and Marketing, Generative AI
 
 💻 Tech Stack
