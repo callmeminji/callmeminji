@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 👋 About Me
+
 Name: Hong Minji
 
 University: Seoul National University of Science and Technology
