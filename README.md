@@ -8,7 +8,7 @@ University: Seoul National University of Science and Technology
 
 Major: IT Management
 
-Year: Sophomore
+Year: Juninor
 
 Interests:
 
